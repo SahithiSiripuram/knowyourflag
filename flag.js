@@ -269,7 +269,8 @@ const flagDictionary = {
   "🇿🇲": "Flag of Zambia",
   "🇿🇼": "Flag of Zimbabwe",
   "🏴󠁧󠁢󠁥󠁮󠁧󠁿": "Flag of England",
-  "🏴󠁧󠁢󠁳󠁣󠁴󠁿": "Flag: Scotland"
+  "🏴󠁧󠁢󠁳󠁣󠁴󠁿": "Flag: Scotland",
+  "":""
 };
 
 const flags = Object.keys(flagDictionary);
